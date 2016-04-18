@@ -1,0 +1,15 @@
+{
+  "name": "ember-mirage-grooming-api",
+  "version": "1.0.0",
+  "description": "Our grooming API for Ember app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Jeffery",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mongoose": "^4.4.12"
+  }
+}
